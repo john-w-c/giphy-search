@@ -18,6 +18,7 @@
   "homepage": "https://github.com/john-w-c/giphy-search#readme",
   "dependencies": {
     "express": "^4.16.3",
-    "express-handlebars": "^3.0.0"
+    "express-handlebars": "^3.0.0",
+    "giphy-api": "^1.2.7"
   }
 }
